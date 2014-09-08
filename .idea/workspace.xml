@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0508c51a-5eaa-41c0-af30-28e2e6c106a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/mashup.jsp" afterPath="$PROJECT_DIR$/web/mashup.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/TestJava.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sosaf.iws" />
@@ -88,13 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inettuts.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/js/inettuts.js">
+      <file leaf-file-name="TestJava.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/TestJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="191" column="0" selection-start="7577" selection-end="7577" vertical-scroll-proportion="0.8974359" vertical-offset="3069" max-vertical-offset="3492">
-              <folding>
-                <marker date="1397916474000" expanded="false" signature="3129:3142" placeholder="..." />
-              </folding>
+            <state line="7" column="38" selection-start="163" selection-end="163" vertical-scroll-proportion="0.34615386" vertical-offset="0" max-vertical-offset="364">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,7 +119,7 @@
       <file leaf-file-name="TestController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uom/sosaf/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+            <state line="6" column="4" selection-start="105" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
               <folding />
             </state>
           </provider>
@@ -195,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/uom/sosaf/controller/TestController.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/web/mashup.jsp" />
+        <option value="$PROJECT_DIR$/src/test/TestJava.java" />
       </list>
     </option>
   </component>
@@ -370,6 +368,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sosaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sosaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sosaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -765,7 +789,7 @@
       <workItem from="1410071969148" duration="3958000" />
       <workItem from="1410164885490" duration="6454000" />
       <workItem from="1410182107277" duration="697000" />
-      <workItem from="1410182945819" duration="9319000" />
+      <workItem from="1410182945819" duration="9446000" />
     </task>
     <task id="LOCAL-00001" summary="package name change">
       <created>1410191603806</created>
@@ -779,11 +803,15 @@
       <created>1410191990233</created>
       <updated>1410191990233</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mashup sample">
+      <created>1410195417955</created>
+      <updated>1410195417955</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20428000" />
+    <option name="totallyTimeSpent" value="20555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1317" height="744" extended-state="6" />
@@ -835,7 +863,8 @@
     <MESSAGE value="package name change" />
     <MESSAGE value="controller java" />
     <MESSAGE value="controller java&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="controller java&#10;" />
+    <MESSAGE value="mashup sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="mashup sample" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -870,7 +899,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3546">
           <folding>
-            <marker date="1397916474000" expanded="false" signature="3129:3142" placeholder="..." />
+            <marker date="1397916474000" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -943,7 +972,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3546">
           <folding>
-            <marker date="1397916474000" expanded="false" signature="3129:3142" placeholder="..." />
+            <marker date="1397916474000" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1078,13 +1107,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/uom/sosaf/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="50" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
@@ -1124,8 +1146,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="191" column="0" selection-start="7577" selection-end="7577" vertical-scroll-proportion="0.8974359" vertical-offset="3069" max-vertical-offset="3492">
           <folding>
-            <marker date="1397916474000" expanded="false" signature="3129:3142" placeholder="..." />
+            <marker date="1397916474000" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uom/sosaf/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="105" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/TestJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="38" selection-start="163" selection-end="163" vertical-scroll-proportion="0.34615386" vertical-offset="0" max-vertical-offset="364">
+          <folding />
         </state>
       </provider>
     </entry>
